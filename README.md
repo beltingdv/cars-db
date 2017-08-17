@@ -64,3 +64,7 @@ carsDb.remove('ID');
 Create a REST API with endpoints to create, get all, and get by ID. The endpoint to get by ID should return  a list of models in addition to the make and year. Models can be retrieved for a given make and year combination using the `GetModels` command as documented in the following API:
 
 [http://www.carqueryapi.com/documentation/api-usage/](http://www.carqueryapi.com/documentation/api-usage/)
+
+Use the following connection string for the local MongoDB database:
+
+	mongodb://localhost:27017/cars
