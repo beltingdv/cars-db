@@ -57,8 +57,6 @@ carsDb.update('ID', {
 
 // Delete by ID
 carsDb.remove('ID');
-
-*/
 ```
 
 ## Task
